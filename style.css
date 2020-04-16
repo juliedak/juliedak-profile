@@ -13,11 +13,13 @@ body{
 }
 
 h1 {
+  margin-bottom: 7px;
   color: #2D3142;
   font-family: 'Open Sans', sans-serif;
   font-weight: 700;
   font-size: 35px;
   line-height:2;
+  margin: -8px;
 }
 
 h2 {
