@@ -3,8 +3,7 @@ body{
   color: #2D3142;
   font-family: 'Open Sans', sans-serif;
   font-weight: 300;
-  background-image: url(images/Julie_Dakoure1.jpg);
-  background-position:center center;
+  background-image:url("../images/sharon-mccutcheon-62vi3TG5EDg-unsplash.jpg");
   background-repeat:no-repeat;
   background-size: cover;
   font-size: 19px;
@@ -57,18 +56,6 @@ color: #a3a2b2;
 color: rgba(170, 170, 170, 0.6);
 }
 
-
-body {
-/*background-image:url("../images/keith-misner-h0Vxgz5tyXA-unsplash.jpg");*/
-background-image:url("../images/sharon-mccutcheon-62vi3TG5EDg-unsplash.jpg");
-/*background-image:url("../images/sharon-mccutcheon-W7cPLHOa0eQ-unsplash.jpg");*/*/
-background-repeat:no-repeat;
-position: relative;
-}
-
-.rayman {
-  align-content: center;
-}
 
 .card-white {
   background: white;
